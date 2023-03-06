@@ -9,7 +9,7 @@ terraform {
   cloud {
     organization = "Rob-Taylor"
     workspaces {
-      name = "TerraformCI"
+      name = "tfstatehol"
     }
   }
 }
